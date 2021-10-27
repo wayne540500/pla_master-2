@@ -1,0 +1,14 @@
+Initial w = [-7.48452262 -8.04990393 -0.93833872]
+Learning rate : 0.5044084684718319
+Epochs : 100
+Last w = : [[-3.95366334 27.76309733 42.44078956]]
+test 1 : 1
+test 2 : 1
+test 3 : -1
+test 4 : -1
+test 5 : -1
+test 6 : -1
+test 7 : 1
+test 8 : -1
+test 9 : 1
+test 10 : 1
